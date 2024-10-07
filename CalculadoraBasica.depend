@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728323491 source:g:\mi unidad\uned\proyectos y trabajos\intro a la programación\calculadorabasica\main.cpp
+	<iostream>
+	<ctype.h>
+	<cstring>
+
